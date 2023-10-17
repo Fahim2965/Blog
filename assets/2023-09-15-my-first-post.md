@@ -1,1 +1,5 @@
--
+During my apprenticeship with WorkED, I was able to learn and experience many different careers. Some of my most memorable experiences were when we visited Arlenee Lopez at Summit Trail Advisors. What I loved most about the visit was being able to see how a big company like Summit Trail manage their client data and how they secure that data. That was a very unique and immersive experience and I enjoyed every part of it.
+
+Throughout the program there were many things we learned about such as OSINT, Python, and many more. But my favorite topic was when we learned Python because I have done Python before so I found that very interesting and easy for me to understand. Also because when we were doing the Python project I saw that more people were interacting with each other than the other projects and that's another reason why the Python topic was my favorite topic that we covered. 
+
+My favorite experience throughout the whole apprenticeship was as I mentioned before was when we visited Arlenee Lopez at her company Summit Trail Advisors. That for me was my favorite experience because we were able to see what a professional workplace was like and how they operate. Also because we were able to see how a major company such as Summit Trail Advisors secure their data and their clients data.
